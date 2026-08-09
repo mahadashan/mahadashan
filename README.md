@@ -83,10 +83,9 @@
 | Project | Stack | Status |
 |---------|-------|--------|
 | 🔴 Vulnerable Web App + Pentest Report | Flask · Burp Suite · OWASP | In Progress |
-| 🦠 XMRig Malware Analysis | Ghidra · YARA · VirusTotal · Windows Forensics | In Progress |
+| 🦠 XMRig Malware Analysis | Ghidra | ✅ Completed |
 | 🤖 Digital Persona Twin (Local AI Chatbot) | FastAPI · ChromaDB · Ollama · React | ✅ Completed |
 | 📅 School Timetable Generator (CSP Scheduler) | React · Python · C++ · openpyxl | ✅ Completed |
-| 🔗 Mahad Shortener (URL Shortener) | Next.js · TypeScript | ✅ Completed |
 
 ---
 

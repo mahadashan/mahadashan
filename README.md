@@ -3,11 +3,6 @@
 <h3 align="center">
   Cybersecurity Researcher &nbsp;|&nbsp; Web App Pentester &nbsp;|&nbsp; CTF Player &nbsp;|&nbsp; Full-Stack Developer
 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&width=600&lines=Top+5+%40+PKCERT+National+CTF+Platform;Web+App+Pentesting+%7C+OWASP+Top+10;Digital+Forensics+%7C+Malware+Analysis;Building+in+Public+%7C+Breaking+Things+Ethically" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me

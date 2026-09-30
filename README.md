@@ -3,7 +3,6 @@
 <h3 align="center">
   Cybersecurity Researcher &nbsp;|&nbsp; Web App Pentester &nbsp;|&nbsp; CTF Player &nbsp;|&nbsp; Full-Stack Developer
 </h3>
----
 
 ### 🧠 About Me
 

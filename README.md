@@ -70,17 +70,10 @@ My current interests include web application security, digital forensics, malwar
 | Digital Persona Twin | FastAPI, ChromaDB, Ollama, React | Complete |
 | School Timetable Generator | React, Python, C++, openpyxl | Complete |
 
-## Certifications
-
-- Cyber Job Simulation — Deloitte (Forage)
-- Automate Cybersecurity Tasks with Python — Google
-- CSS, JavaScript, PHP, and Python — Udemy
-- Python Programming — Kaggle
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadashan&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadashan&layout=compact&theme=default&hide_border=true" alt="Top languages" height="160"/>
 </p>
 
